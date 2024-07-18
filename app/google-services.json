@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1046715506887",
+    "firebase_url": "https://meroshop-814d8.firebaseio.com",
+    "project_id": "meroshop-814d8",
+    "storage_bucket": "meroshop-814d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046715506887:android:157a52403f9847a1",
+        "android_client_info": {
+          "package_name": "com.mikal.minorproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046715506887-d90c0slubpooss8o9ln1gf3l7olf5gdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-yxFV6ojkSsgkl0kUo-N9WmJA5JNcxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046715506887-d90c0slubpooss8o9ln1gf3l7olf5gdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
